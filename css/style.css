@@ -9,3 +9,21 @@ margin-top: 0px;
     height: 100px;
     background-size: contain;
 }
+
+/*utilità*/
+
+.capitalized{
+    text-transform: capitalize;
+}
+/*fine utilità*/
+
+h1{
+    font-size: 40px;
+}
+.credit{
+    text-transform: capitalize;
+    font-size: 22px;
+}
+#booleaner-credit{
+    color: #2C528C;
+}

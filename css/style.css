@@ -1,5 +1,5 @@
 .container {
-margin: 100px;
+margin: 150px;
 margin-top: 0px;
 }
 
@@ -18,7 +18,9 @@ margin-top: 0px;
 .grigi{
     color: gray;
     margin: 0px;
-
+}
+.evidenza{
+    background-color: #FFFF00;
 }
 /*fine utilità*/
 
@@ -35,3 +37,18 @@ h1{
 #booleaner-credit{
     color: #2C528C;
 }
+#list{
+    padding: 16px;
+}
+.td-color{
+    background-color: #7289da;
+    color: rgb(255, 255, 255);
+}
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+  }
+  .tr-color{
+    background-color: lightblue;
+  }

@@ -52,3 +52,22 @@ table {
   .tr-color{
     background-color: lightblue;
   }
+  h4{
+    color: #7289da;
+    font-size: 22px;
+  }
+  h2{
+    color: white;
+  }
+
+  #uno-add{
+    height: 200px;
+    width: 300px;
+    background-color: red;
+    background-image: url(../img/monitor.jpg);
+  }
+  #due-add{
+    height: 200px;
+    width: 300px;
+    background-image: url(../img/graph.jpg);
+  }
